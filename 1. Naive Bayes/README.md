@@ -1,5 +1,4 @@
-# MachineLearningProjects
-Naive Bayes Algoritmasının Futbol Verisi Üzerinde Kullanımı
+# Naive Bayes Algoritmasının Futbol Verisi Üzerinde Kullanımı
 
 Projenin Amacı: Bu projede güçlü bir makine öğrenmesi algoritması olan Naive Bayes algoritmasının gücünü bir oyuncunun en az bir gol atıp atmadığını ayıran bir model oluşturmak için kullandık. Bu ana amacın yanındaki amacımız ise bu modeli önce hazır kütüphanelerle eğitip daha sonra da kütüphane kullanmadan yazılan kodla performans ve doğruluk açısından karşılaştırmaktır.
 
@@ -26,7 +25,7 @@ Recall (Hatırlama): Recall, gerçek pozitif örneklerin ne kadarını doğru ş
 F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer modelin precision'ı yüksekse ancak recall'ı düşükse veya tam tersi bir durum varsa, F1-Score bu iki metriğin dengelenmesine yardımcı olur. F1-Score, özellikle sınıflar arasındaki dağılımın dengesiz olduğu durumlarda önemli olur, çünkü sadece bir metrikle değil, her iki metriği de göz önünde bulundurur.
 
 Şimdi tüm bilgileri edindiğimize göre karşılaştırma işlemine başlayabiliriz:
-![image](https://github.com/user-attachments/assets/21a2db5a-f667-4b9b-ac8f-21882da88cdb)
+<img src="https://github.com/user-attachments/assets/21a2db5a-f667-4b9b-ac8f-21882da88cdb" alt="image" width="500" height="300"/>
 
 
 
