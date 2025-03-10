@@ -25,12 +25,19 @@ Recall (Hatırlama): Recall, gerçek pozitif örneklerin ne kadarını doğru ş
 F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer modelin precision'ı yüksekse ancak recall'ı düşükse veya tam tersi bir durum varsa, F1-Score bu iki metriğin dengelenmesine yardımcı olur. F1-Score, özellikle sınıflar arasındaki dağılımın dengesiz olduğu durumlarda önemli olur, çünkü sadece bir metrikle değil, her iki metriği de göz önünde bulundurur.
 
 Şimdi tüm bilgileri edindiğimize göre karşılaştırma işlemine başlayabiliriz:
-<img src="https://github.com/user-attachments/assets/21a2db5a-f667-4b9b-ac8f-21882da88cdb" alt="image" width="300" height="300"/>
+
+Öncelikle confusion matrix ile başlayabiliriz:
+
+![image](https://github.com/user-attachments/assets/e371a9c8-db48-4c6b-801f-316036dfcab6)
+
+
+
 İki kodumuzda da değerler aynı olduğu için iki görsel ekleme ihtiyacı duymadım. Hem accuracy hem de confusion matrixdeki değerler konum bazlı da eşleşiyor.
+![image](https://github.com/user-attachments/assets/de399131-9725-4e93-b655-d07dfc272079)
 
 
-<img src="https://github.com/user-attachments/assets/5b46bab1-fbbb-4582-8b47-8f2235864e6c" alt="image" width="300"/>
-Yine bu değerlerde de tamamen örtüşme görüyoruz.
+
+Yine performans metrik değerlerinde de tamamen örtüşme olmuştur.
 
 Doğruluk açısından kodlarımız arasında bu örnek için bir farklılık olmadığını gördük peki hız konusunda hangi kod daha iyi?
 
