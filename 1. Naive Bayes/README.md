@@ -54,6 +54,12 @@ without scikit-learn
 
 ![image](https://github.com/user-attachments/assets/864b42ba-583a-44c5-9440-1363d847607e)
 
+Fit methodunda kütüphane kullanılmadan oluşturulan kod daha hızlı çalışırken tahminde ise scikit learn çok önde.
+
+Fit methodunda bizim kodumuzun daha hızlı çalışmasını scikit learn kütüphanesinin esnek yapısına ve ekstra kontrollerine bağlayabiliriz.
+
+Ancak prediction aşamasında, Scikit-learn daha optimize edilmiş ve geniş çapta test edilmiş algoritmalara sahiptir. Tahminler için genellikle sabit algoritmalar ve optimize edilmiş vektörleştirilmiş işlemler kullanır. Bu nedenle scikit learn kütüphanesinin prediction methodunda ilkel kodumuza fark attı diyebiliriz.
+
 
 
 
