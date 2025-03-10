@@ -31,20 +31,27 @@ F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer model
 ![image](https://github.com/user-attachments/assets/e371a9c8-db48-4c6b-801f-316036dfcab6)
 
 
-
 İki kodumuzda da değerler aynı olduğu için iki görsel ekleme ihtiyacı duymadım. Hem accuracy hem de confusion matrixdeki değerler konum bazlı da eşleşiyor.
+
 ![image](https://github.com/user-attachments/assets/de399131-9725-4e93-b655-d07dfc272079)
-
-
 
 Yine performans metrik değerlerinde de tamamen örtüşme olmuştur.
 
+
 Doğruluk açısından kodlarımız arasında bu örnek için bir farklılık olmadığını gördük peki hız konusunda hangi kod daha iyi?
 
+
+with scikit-learn
+
 ![image](https://github.com/user-attachments/assets/3742900f-7d16-4e21-9fb9-8bca1617b046)
+
 ![image](https://github.com/user-attachments/assets/b8272688-ac94-4f54-88b6-7128e4cdcd0b)
 
+
+without scikit-learn
+
 ![image](https://github.com/user-attachments/assets/6a231494-4c9b-4d0b-8b21-bb63cddbed45)
+
 ![image](https://github.com/user-attachments/assets/864b42ba-583a-44c5-9440-1363d847607e)
 
 
