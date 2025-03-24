@@ -35,6 +35,20 @@ F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer model
 
 ![Ekran görüntüsü 2025-03-24 140116](https://github.com/user-attachments/assets/8e42027e-8030-47be-9452-6e16746eb98d)
 
+Şimdi kütüphane ile yazılan kodun çıktılarına bakalım:
+
+![Ekran görüntüsü 2025-03-24 140323](https://github.com/user-attachments/assets/1d607e3a-5f52-4f78-abf8-3d9c24cf519c)
+
+
+![Ekran görüntüsü 2025-03-24 140338](https://github.com/user-attachments/assets/b44bf295-9104-4021-a82e-07ad7dd49a65)
+
+
+![Ekran görüntüsü 2025-03-24 140353](https://github.com/user-attachments/assets/b4c5401b-897e-4576-b071-88a40e85ea7d)
+
+![Ekran görüntüsü 2025-03-24 140401](https://github.com/user-attachments/assets/5dab0ba5-c38c-4d37-90bc-da17c7a473fe)
+
+
+
 
 
 
