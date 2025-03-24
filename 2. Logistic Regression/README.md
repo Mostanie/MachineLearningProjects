@@ -61,3 +61,5 @@ Sonuçları karşılaştırmadan önce bir şey daha belirtmemiz gerekiyor. Kend
 
 
 
+
+
