@@ -24,7 +24,7 @@ F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer model
 
 Öncelikle kütüphane kullanılmadan eğitilen sınıfın bilgilerini vereceğim daha sonra kütüphane kullanılarak eğitilen bilgilere geçeceğiz:
 
-![Ekran görüntüsü 2025-03-24 135839](https://github.com/user-attachments/assets/e52acb06-34f0-414e-8873-51df3af851ba)
+![Ekran görüntüsü 2025-03-24 135839](https://github.com/user-attachments/assets/e52acb06-34f0-414e-8873-51df3af851ba) ![Ekran görüntüsü 2025-03-24 140323](https://github.com/user-attachments/assets/1d607e3a-5f52-4f78-abf8-3d9c24cf519c)
 
 
 ![Ekran görüntüsü 2025-03-24 135920](https://github.com/user-attachments/assets/9a55d6ac-468b-47f4-94b3-59fa63398b81)
