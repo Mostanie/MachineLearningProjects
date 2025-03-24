@@ -48,7 +48,13 @@ F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer model
 ![Ekran görüntüsü 2025-03-24 140401](https://github.com/user-attachments/assets/5dab0ba5-c38c-4d37-90bc-da17c7a473fe)
 
 
-Sonuçları karşılaştırmadan önce bir şey daha belirtmemiz gerekiyor. Kendi yazdığımız logistic regressionda n_iters parametresi algoritmanın kaç adım süreceğini belirtiyor. Eğer bu değeri 10 katına çıkarırsak doğruluk oranı artacaktır ama çalışma zamanı da bir hayli artacaktır. Dilerseniz n_iters parametresinin değişikliği sonucundaki modelin eğitilme süresini ve doğruluk oranını da inceleyebilirsiniz.
+Sonuçları karşılaştırmadan önce bir şey daha belirtmemiz gerekiyor. Kendi yazdığımız logistic regressionda n_iters parametresi algoritmanın kaç adım süreceğini belirtiyor. Eğer bu değeri 10 katına çıkarırsak doğruluk oranı artacaktır ama çalışma zamanı da bir hayli artacaktır. Üstteki karşılaştırmada kütüphanenin güç farkı görülebilsin ve karşılaştırma adil olsun diye iterasyon sayısı 1000 olarak girilmişti. Dilerseniz n_iters parametresinin 10000 olarak girilmesi durumundaki modelin eğitilme süresini ve doğruluk oranını da inceleyebilirsiniz.
+
+
+![Ekran görüntüsü 2025-03-24 141131](https://github.com/user-attachments/assets/1fb54a87-aacc-4ee2-90cd-7561769b6d55)
+
+
+![Ekran görüntüsü 2025-03-24 141151](https://github.com/user-attachments/assets/52071575-3b4b-4db7-aa32-be3963906c4f)
 
 
 
