@@ -57,6 +57,15 @@ Sonuçları karşılaştırmadan önce bir şey daha belirtmemiz gerekiyor. Kend
 ![Ekran görüntüsü 2025-03-24 141151](https://github.com/user-attachments/assets/52071575-3b4b-4db7-aa32-be3963906c4f)
 
 
+Karşılaştırma sonuçları:
+
+Öncelikle fit fonksiyonun çalışma sürelerine baktığımızda fit fonksiyonu modeli bizim fit fonksiyonumuzdan çok daha hızlı eğitebiliyor. Bunu scikit-learn kütüphanesinin kullandığı optimizasyon tekniklerine bağlayabiliriz.
+
+Predict fonksiyonunda scikit-learn kütüphanesinin yavaş kalma sebebi yaptığı ek adımlar olabilir. Bizim yazdığımız kod doğrudan hesaplama yaparken scikit-learn ek adımlara başvurabilir.
+
+Accuracy değerine geldiğimizde ise şu yorumu yapabiliriz: Scikit-learn kütüphanesinin hiperparametre tuning yapmasına yani modelin bizden aldığı parametreleri (learning rate, iter sayısı vb.) en iyi doğruluğu verecek şekilde optimize etmesi işini yaptığı için doğruluk olarak her zaman öndedir.
+
+
 
 
 
