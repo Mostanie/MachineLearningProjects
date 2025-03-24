@@ -1,0 +1,5 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+https://medium.com/@koushikkushal95/logistic-regression-from-scratch-dfb8527a4226
+
+https://www.udemy.com/course/machinelearning/
