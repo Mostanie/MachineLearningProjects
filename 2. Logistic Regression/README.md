@@ -48,6 +48,9 @@ F1-Score: F1-Score, precision ve recall arasında bir denge sağlar. Eğer model
 ![Ekran görüntüsü 2025-03-24 140401](https://github.com/user-attachments/assets/5dab0ba5-c38c-4d37-90bc-da17c7a473fe)
 
 
+Sonuçları karşılaştırmadan önce bir şey daha belirtmemiz gerekiyor. Kendi yazdığımız logistic regressionda n_iters parametresi algoritmanın kaç adım süreceğini belirtiyor. Eğer bu değeri 10 katına çıkarırsak doğruluk oranı artacaktır ama çalışma zamanı da bir hayli artacaktır. Dilerseniz n_iters parametresinin değişikliği sonucundaki modelin eğitilme süresini ve doğruluk oranını da inceleyebilirsiniz.
+
+
 
 
 
