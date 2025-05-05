@@ -6,6 +6,7 @@ Model kullanılmadan yazılan kodun sonuçları:
 Model kullanılarak yazılan kodun sonuçları:
 
 ![image](https://github.com/user-attachments/assets/4b509936-150b-473e-a962-46a06aa15b90)
+
 ![image](https://github.com/user-attachments/assets/dfd06240-8cad-4de6-9163-a948a4723ec7)
 
 
