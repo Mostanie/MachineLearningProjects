@@ -1,8 +1,10 @@
 Model kullanılmadan yazılan kodun sonuçları:
+
 ![image](https://github.com/user-attachments/assets/d773aef7-650f-47ab-ac5d-346560cd2d78)
 ![image](https://github.com/user-attachments/assets/8adf6905-8e8a-4e9f-83c1-94a46c0cac98)
 
 Model kullanılarak yazılan kodun sonuçları:
+
 ![image](https://github.com/user-attachments/assets/4b509936-150b-473e-a962-46a06aa15b90)
 ![image](https://github.com/user-attachments/assets/dfd06240-8cad-4de6-9163-a948a4723ec7)
 
