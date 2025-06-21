@@ -1,7 +1,7 @@
 Kütüphaneleri ve Veri Setini Yükleme:
-  NumPy, Pandas, Matplotlib, Seaborn ve scikit-learn’den veri yükleme araçları içe aktarılır. \n
-  Iris veri seti yüklenir (4 özellik, 3 sınıf: Setosa, Versicolor, Virginica). \n
-  Veriler Pandas DataFrame’e çevrilir, train/test olarak %80/%20 oranında bölünür. \n
+  NumPy, Pandas, Matplotlib, Seaborn ve scikit-learn’den veri yükleme araçları içe aktarılır.
+  Iris veri seti yüklenir (4 özellik, 3 sınıf: Setosa, Versicolor, Virginica).
+  Veriler Pandas DataFrame’e çevrilir, train/test olarak %80/%20 oranında bölünür.
   Özellikler standartlaştırılır (ortalama=0, varyans=1) ve hedef değişken one-hot encoding ile dönüştürülür.
 
 Sinir Ağı Sınıfı (NeuralNetwork):
